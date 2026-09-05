@@ -27,6 +27,7 @@ body {
   width: 300px;
   z-index: 100;
   filter: drop-shadow(0 0 35px var(--clr));
+  cursor: pointer;
 }
 .container .cloud h2 {
   position: absolute;
